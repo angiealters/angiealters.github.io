@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+h1{
+	color: white;
+}
+.boldClass{
+	font-weight: bold;
+}
+#bigID{
+	font-size: 24px;
+}
+h3{
+	color:pink;
+}
+h2{
+	color:green;
+}
+table{
+	color:orange;
+}
+th{
+	color:white;
+}
+ul{
+	color:yellow;
+}
+ol{
+	color:blue;
+}
