@@ -1,33 +1,40 @@
-	.bg-1{
-		background-color: #7F055F;
-		color: #FFE8D4;
-		padding-top: 40px;
-		padding-bottom: 40px;
-	}
-	.bg-2{
-		background-color: #EBD2BE;
-		color: #45062E;
-		padding-top: 15px;
-		padding-bottom: 15px;
-	}
-	.bg-3{
-		background-color: #E5A4CB;
-		color: #45062E;
-		padding-top: 40px;
-		padding-bottom: 40px;
-		padding-left: 40px;
-		padding-right: 40px;
-	}
-	.bg-4{
-		background-color: #45062E;
-		padding: 40px;
-	}
-	.bg-5{
-		background-color: #FFE8D4;
-		color: #7F055F;
-		padding-top: 15px;
-		padding-bottom: 5px;
-	}
+.jumbotron {
+	background-color: #EBD2BE;
+	color: #45062E;
+	margin-bottom: 0px;
+}
+.bg-1 {
+	background-color: #7F055F;
+	color: #FFE8D4;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.bg-2 {
+	background-color: #EBD2BE;
+	color: #45062E;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.bg-3 {
+	background-color: #E5A4CB;
+	color: #45062E;
+	padding: 40px;
+}
+.bg-4 {
+	background-color: #45062E;
+	padding: 80px;
+}
+.bg-5 {
+	background-color: #FFE8D4;
+	color: #7F055F;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+.img {
+	vertical-align: middle;
+	width: 100%;
+	max-width: 668px;
+}
 
 /*!
  * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
