@@ -2,6 +2,7 @@
 	background-color: #EBD2BE;
 	color: #45062E;
 	margin-bottom: 0px;
+	padding-top: 60px;
 }
 .bg-1 {
 	background-color: #7F055F;
@@ -29,11 +30,6 @@
 	color: #7F055F;
 	padding-top: 15px;
 	padding-bottom: 5px;
-}
-.img {
-	vertical-align: middle;
-	width: 100%;
-	max-width: 668px;
 }
 
 /*!
